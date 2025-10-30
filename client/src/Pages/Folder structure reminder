@@ -1,0 +1,6 @@
+mern-blog/
+├── client/
+├── server/
+├── .env
+├── README.md
+└── package.json
